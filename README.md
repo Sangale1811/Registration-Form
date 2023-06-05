@@ -6,5 +6,6 @@ Simple Registration form in HTML, CSS, JavaScript with MySQL Database using PHP.
 - HTML
 - CSS
 - JavaScript
-- MySQL
+- MySQL (DataBase)
 
+ 
