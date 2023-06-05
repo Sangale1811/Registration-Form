@@ -1,5 +1,6 @@
 # Registration-Form
-Simple Registration form in HTML, CSS, JavaScript with MySQL Database using PHP.
+
+This is a Simple Registration Form, In this form mentioned about first and last name, email, password, confirm password etc.
 
 ## Technologies Used
 
